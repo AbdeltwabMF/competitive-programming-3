@@ -146,7 +146,7 @@ void File()
 {
     #ifndef ONLINE_JUDGE
     freopen("input.in", "r", stdin);
-    //freopen("output.out", "w", stdout);
+    freopen("output.out", "w", stdout);
     #endif
 }
 
@@ -183,10 +183,10 @@ void _clear()
 
 void PrintLine(int n)
 {
-    cout << "+";
+    cout << endl << "+";
     for(int i = 1; i < n * 2; ++i)
-    cout << "-";
-        cout << "+" << endl;
+        cout << "-";
+    cout << "+" << endl;
 }
 
 void Solve()
@@ -222,14 +222,18 @@ void Solve()
         for(int j = 0; j < n; ++j)
             cout << ans[i][j] << "|";
 
-        cout << endl;
         PrintLine(n);
     }
 }
 
 void MultiTest(bool Tests)
 {
-    int _tc = 1; (Tests) && (cin >> _tc); while(_tc--) Solve();
+    int _tc = 1, tt = 1; (Tests) && (cin >> _tc);
+    while(_tc--)
+    {
+        cout << "Case " << tt++ << ":";
+        Solve();
+    }
 }
 
 /**------------------------->>  Main  <<-------------------------**/
