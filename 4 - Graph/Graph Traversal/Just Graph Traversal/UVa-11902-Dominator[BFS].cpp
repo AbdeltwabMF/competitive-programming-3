@@ -175,7 +175,6 @@ void BFS(int src, int disable = -1)
 {
     memset(vis, 0x00, sizeof vis);
 
-    if(src == disable) return;
     queue <int> q; q.push(src);
     vis[src] = true;
 
@@ -183,9 +182,12 @@ void BFS(int src, int disable = -1)
     while(q.size())
     {
         u = q.front(); q.pop();
+        if(u == disable)
+        {
+            vis[u] = false; continue;
+        }
         for(int i = Head[u]; i; i = Next[i]) if(!vis[To[i]])
         {
-            if(To[i] == disable) continue;
             vis[To[i]] = true;
             q.push(To[i]);
         }
