@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1600544761 source:/home/abdeltwabmf/Documents/C++ Projects/AUC Assignment 1 /Assignment1 /src/Board.cpp
+
+1600544908 source:/home/abdeltwabmf/Documents/C++ Projects/AUC Assignment 1 /Assignment1 /src/Animal.cpp
+
+1600544907 source:/home/abdeltwabmf/Documents/C++ Projects/AUC Assignment 1 /Assignment1 /src/board.cpp
+
+1600549663 source:/home/abdeltwabmf/Documents/C++ Projects/AUC Assignment 1 /Assignment1 /main.cpp
+	<bits/stdc++.h>
+	"Animal.h"
+	"board.h"
+
+1600549627 /home/abdeltwabmf/Documents/C++ Projects/AUC Assignment 1 /Assignment1 /include/Animal.h
+	"board.h"
+
+1600549505 /home/abdeltwabmf/Documents/C++ Projects/AUC Assignment 1 /Assignment1 /include/board.h
+
