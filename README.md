@@ -1,2 +1,26 @@
 # Competitive-Programming-3
-My Solutions to Problems in [Copetitive Programming 3 By Steven Halim]
+ My Solutions to Problems in [Copetitive Programming 3 By Steven Halim]
+
+## Contents
+ 1. [Graph](4-Graph)
+   - [Graph Traversal](4-Graph/Graph-Traversal)
+     - [Just Graph Traversal](4-Graph/Graph-Traversal/Just-Graph-Traversal)
+       - [UVa 11902 Dominator](4-Graph/Graph-Traversal/Just-Graph-Traversal/UVa-11902-Dominator.cpp)
+       - [UVa 11902 Dominator [BFS]](4-Graph/Graph-Traversal/Just-Graph-Traversal/UVa-11902-Dominator[BFS].cpp)
+     - [Flood Fill and Finding Connected Components](4-Graph/Graph-Traversal/FloodFill-Finding-Connected-Components)
+       - [UVa 1103 Ancient Messages (World Final 2011)](4-Graph/Graph-Traversal/FloodFill-Finding-Connected-Components/UVa-1103-Ancient-Messages[ICPC'11].cpp)
+       - [UVa 459 Graph Connectivity](4-Graph/Graph-Traversal/FloodFill-Finding-Connected-Components/UVa-459-GraphConnectivity.cpp)
+       - [UVa 459 Graph Connectivity [BFS]](4-Graph/Graph-Traversal/FloodFill-Finding-Connected-Components/UVa-459-Graph-Connectivity[BFS].cpp)
+       - [UVa 785 Grid Colouring](4-Graph/Graph-Traversal/FloodFill-Finding-Connected-Components/UVa-785-Grid-Colouring.cpp)
+       - [UVa 352 The Seasonal War](4-Graph/Graph-Traversal/FloodFill-Finding-Connected-Components/UVa-352-The-Seasonal-War.cpp)
+       - [UVa 260 Il Gioco dell'X](4-Graph/Graph-Traversal/FloodFill-Finding-Connected-Components/UVa-260-Il-Gioco-dell'X.cpp)
+     - [Bipartite Graph Check](4-Graph/Graph-Traversal/Bipartite-Graph-Check)
+       - [Uva 10505 Montesco vs Capuleto](4-Graph/Graph-Traversal/Bipartite-Graph-Check/Uva-10505-MontescovsCapuleto.cpp)
+       - [UVa 11080 Place the Guards](4-Graph/Graph-Traversal/Bipartite-Graph-Check/UVa-11080-Place-the-Guards.cpp)
+     - [Topological Sort](4-Graph/Graph-Traversal/Topological-Sort)
+       - [UVa 11686 Pick up sticks](4-Graph/Graph-Traversal/Topological-Sort/UVa-11686-Pick-up-sticks.cpp)
+       - [UVa 11060 Beverages](4-Graph/Graph-Traversal/Topological-Sort/UVa-11060-Beverages.cpp)
+       - [UVa 10305 Ordering Tasks](4-Graph/Graph-Traversal/Topological-Sort/UVa-10305-Ordering-Tasks.cpp)
+       - [UVa 872 Ordering](4-Graph/Graph-Traversal/Topological-Sort/UVa-872-Ordering.cpp)
+       - [UVa 200 Rare Order](4-Graph/Graph-Traversal/Topological-Sort/UVa-200-Rare-Order.cpp)
+       - [UVa 124 Following Orders](4-Graph/Graph-Traversal/Topological-Sort/UVa-124-Following-Orders.cpp)
