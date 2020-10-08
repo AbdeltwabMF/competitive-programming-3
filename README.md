@@ -24,3 +24,6 @@
        - [UVa 872 Ordering](4-Graph/Graph-Traversal/Topological-Sort/UVa-872-Ordering.cpp)
        - [UVa 200 Rare Order](4-Graph/Graph-Traversal/Topological-Sort/UVa-200-Rare-Order.cpp)
        - [UVa 124 Following Orders](4-Graph/Graph-Traversal/Topological-Sort/UVa-124-Following-Orders.cpp)
+   - [Single-Source Shortest Paths (SSSP)](4-Graph/Single-Source-Shortest-Paths-(SSSP))
+     - [Weighted Graph: Dijkstra](4-Graph/Single-Source-Shortest-Paths-(SSSP)/Weighted-Graph-Dijkstra)
+       - [UVa 929 Number Maze](4-Graph/Single-Source-Shortest-Paths-(SSSP)/Weighted-Graph-Dijkstra/UVa-929-Number-Maze.cpp)
