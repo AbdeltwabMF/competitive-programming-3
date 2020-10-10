@@ -27,3 +27,4 @@
    - [Single-Source Shortest Paths (SSSP)](4-Graph/Single-Source-Shortest-Paths-(SSSP))
      - [Weighted Graph: Dijkstra](4-Graph/Single-Source-Shortest-Paths-(SSSP)/Weighted-Graph-Dijkstra)
        - [UVa 929 Number Maze](4-Graph/Single-Source-Shortest-Paths-(SSSP)/Weighted-Graph-Dijkstra/UVa-929-Number-Maze.cpp)
+       - [UVa 10801 Lift Hopping](4-Graph/Single-Source-Shortest-Paths-(SSSP)/Weighted-Graph-Dijkstra/UVa-10801-Lift-Hopping[Dijkstra-MPSP].cpp)
