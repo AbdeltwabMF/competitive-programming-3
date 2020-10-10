@@ -28,3 +28,5 @@
      - [Weighted Graph: Dijkstra](4-Graph/Single-Source-Shortest-Paths-(SSSP)/Weighted-Graph-Dijkstra)
        - [UVa 929 Number Maze](4-Graph/Single-Source-Shortest-Paths-(SSSP)/Weighted-Graph-Dijkstra/UVa-929-Number-Maze.cpp)
        - [UVa 10801 Lift Hopping](4-Graph/Single-Source-Shortest-Paths-(SSSP)/Weighted-Graph-Dijkstra/UVa-10801-Lift-Hopping[Dijkstra-MPSP].cpp)
+     - [Weighted Graph with Negative Weight Cycle: Bellman-Ford](4-Graph/Single-Source-Shortest-Paths-(SSSP)/Weighted-Graph-with-Negative-Weight-Cycle-Bellman-Ford)
+       - [UVa 558 Wormholes](UVa-558-Wormholes.cpp)
