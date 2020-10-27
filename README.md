@@ -2,7 +2,15 @@
  My Solutions to Problems in [Copetitive Programming 3 By Steven Halim]
 
 ## Contents
- 1. [Graph](4.Graph)
+
+ 2. [Problem Solving Paradigms](2.Problem-Solving-Paradigms)
+   - [2.1 Complete Search](2.1.Complete-Search)
+     - [2.1.1 Iterative Complete Search](2.1.1.Iterative-Complete-Search)
+       - [UVa 725 Division](2.Problem-Solving-Paradigms/2.1.Complete-Search/2.1.1.Iterative-Complete-Search/UVa-725-Division.cpp)
+ 
+---
+
+ 4. [Graph](4.Graph)
    - [4.1 Graph Traversal](4.Graph/4.1.Graph-Traversal)
      - [4.1.1 Just Graph Traversal](4.Graph/4.1.Graph-Traversal/4.1.1.Just-Graph-Traversal)
        - [UVa 11902 Dominator](4.Graph/4.1.Graph-Traversal/4.1.1.Just-Graph-Traversal/UVa-11902-Dominator.cpp)
@@ -28,7 +36,7 @@
        - [UVa 315 Network](4.Graph/4.1.Graph-Traversal/4.1.5.Finding-Articulation-Points-and-Bridges/UVa-315-Network.cpp)
    
    - [4.2 Single-Source Shortest Paths (SSSP)](4.Graph/4.2.Single-Source-Shortest-Paths-(SSSP))
-     - [4.2.1 Unweighted-Graph-BFS](4.Graph/4.2.Single-Source-Shortest-Paths-(SSSP)/4.2.1.Unweighted-Graph-BFS)
+     - [4.2.1 Unweighted Graph: BFS](4.Graph/4.2.Single-Source-Shortest-Paths-(SSSP)/4.2.1.Unweighted-Graph-BFS)
        - [UVa 821 Page Hopping](4.Graph/4.2.Single-Source-Shortest-Paths-(SSSP)/4.2.1.Unweighted-Graph-BFS/UVa-821-Page-Hopping.cpp)
      - [4.2.2 Weighted Graph: Dijkstra](4.Graph/4.2.Single-Source-Shortest-Paths-(SSSP)/4.2.2.Weighted-Graph-Dijkstra)
        - [UVa 929 Number Maze](4.Graph/4.2.Single-Source-Shortest-Paths-(SSSP)/4.2.2.Weighted-Graph-Dijkstra/UVa-929-Number-Maze.cpp)
@@ -43,13 +51,3 @@
      - [UVa 821 Page Hopping](4.Graph/4.3.All-Pairs-Shortest-Paths-(APSP)/UVa-821-Page-Hopping.cpp)  
      - [UVa 567 Risk](4.Graph/4.3.All-Pairs-Shortest-Paths-(APSP)/UVa-567-Risk.cpp)
      
----
-
- 2. [Problem Solving Paradigms](2.Problem-Solving-Paradigms)
-   - [2.1 Complete Search](2.1.Complete-Search)
-     - [2.1.1 Iterative Complete Search](2.1.1.Iterative-Complete-Search)
-       - [UVa 725 Division](2.Problem-Solving-Paradigms/2.1.Complete-Search/2.1.1.Iterative-Complete-Search/UVa-725-Division.cpp)
- 
- 
- 
- 
