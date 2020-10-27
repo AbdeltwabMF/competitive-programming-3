@@ -34,7 +34,7 @@
        - [UVa 11080 Place the Guards](4.Graph/4.1.Graph-Traversal/4.1.4.Bipartite-Graph-Check/UVa-11080-Place-the-Guards.cpp)
      - [4.1.5 Finding Articulation Points and Bridges](4.Graph/4.1.Graph-Traversal/4.1.5.Finding-Articulation-Points-and-Bridges)
        - [UVa 315 Network](4.Graph/4.1.Graph-Traversal/4.1.5.Finding-Articulation-Points-and-Bridges/UVa-315-Network.cpp)
-   
+   	   - [UVa 796 Critical Links](4.Graph/4.1.Graph-Traversal/4.1.5.Finding-Articulation-Points-and-Bridges/UVa-796-Critical-Links.cpp)
    - [4.2 Single-Source Shortest Paths (SSSP)](4.Graph/4.2.Single-Source-Shortest-Paths-(SSSP))
      - [4.2.1 Unweighted Graph: BFS](4.Graph/4.2.Single-Source-Shortest-Paths-(SSSP)/4.2.1.Unweighted-Graph-BFS)
        - [UVa 821 Page Hopping](4.Graph/4.2.Single-Source-Shortest-Paths-(SSSP)/4.2.1.Unweighted-Graph-BFS/UVa-821-Page-Hopping.cpp)
