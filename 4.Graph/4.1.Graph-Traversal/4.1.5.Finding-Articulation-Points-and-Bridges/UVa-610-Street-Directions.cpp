@@ -78,7 +78,7 @@ void DFS(int node)
 void DFS2(int node)
 {
     vis[node] = true;
-    for(int i = Head[node]; i; i = Next[i]) if(To[i] != Par[node])
+    for(int i = Head[node]; i; i = Next[i])
     {
         if(isBridge[node][To[i]] == 0)
         {
@@ -86,10 +86,7 @@ void DFS2(int node)
             isBridge[node][To[i]] = isBridge[To[i]][node] = 1;
         }
         if(!vis[To[i]])
-        {
-            Par[To[i]] = node;
             DFS2(To[i]);
-        }
     }
 }
 
@@ -112,7 +109,6 @@ void Solve()
         articulation[root] = (rootChildren > 1);
     }
 
-    memset(Par, -1, sizeof(Par[0]) * (n + 2));
     for(int i = 1; i <= n; ++i) if(!vis[i])
         DFS2(i);
 
