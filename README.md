@@ -40,6 +40,8 @@
    	 - [4.1.6 Finding Strongly Connected Components](4.Graph/4.1.Graph-Traversal/4.1.6.Finding-Strongly-Connected-Components)
    	   - [UVa 11709 Trust groups](4.Graph/4.1.Graph-Traversal/4.1.6.Finding-Strongly-Connected-Components/UVa-11709-Trust-groups.cpp)
    	   - [UVa 11838 Come and Go](4.Graph/4.1.Graph-Traversal/4.1.6.Finding-Strongly-Connected-Components/UVa-11838-Come-and-Go.cpp)
+   	   - [UVa 11504 Dominos](4.Graph/4.1.Graph-Traversal/4.1.6.Finding-Strongly-Connected-Components/UVa-11504-Dominos.cpp)
+   	   - [UVa 1229 Sub dictionary](4.Graph/4.1.Graph-Traversal/4.1.6.Finding-Strongly-Connected-Components/UVa-1229-Sub-dictionary.cpp)
    - [4.2 Single-Source Shortest Paths (SSSP)](4.Graph/4.2.Single-Source-Shortest-Paths-(SSSP))
      - [4.2.1 Unweighted Graph: BFS](4.Graph/4.2.Single-Source-Shortest-Paths-(SSSP)/4.2.1.Unweighted-Graph-BFS)
        - [UVa 821 Page Hopping](4.Graph/4.2.Single-Source-Shortest-Paths-(SSSP)/4.2.1.Unweighted-Graph-BFS/UVa-821-Page-Hopping.cpp)
