@@ -7,7 +7,8 @@
    - [2.1 Complete Search](2.1.Complete-Search)
      - [2.1.1 Iterative Complete Search](2.1.1.Iterative-Complete-Search)
        - [UVa 725 Division](2.Problem-Solving-Paradigms/2.1.Complete-Search/2.1.1.Iterative-Complete-Search/UVa-725-Division.cpp)
- 
+       - [UVa 10125 Sumset](2.Problem-Solving-Paradigms/2.1.Complete-Search/2.1.1.Iterative-Complete-Search/UVa-10125-Sumset.cpp)
+
 ---
 
  4. [Graph](4.Graph)
@@ -53,8 +54,7 @@
        - [UVa 558 Wormholes](4.Graph/4.2.Single-Source-Shortest-Paths-(SSSP)/4.2.3.Weighted-Graph-with-Negative-Weight-Cycle-Bellman-Ford/UVa-558-Wormholes.cpp)
        - [UVa 10557 XYZZY (SPFA)](4.Graph/4.2.Single-Source-Shortest-Paths-(SSSP)/4.2.3.Weighted-Graph-with-Negative-Weight-Cycle-Bellman-Ford/UVa-10557-XYZZY[SPFA].cpp)
        - [UVa 10557 XYZZY (Bellman-Ford)](4.Graph/4.2.Single-Source-Shortest-Paths-(SSSP)/4.2.3.Weighted-Graph-with-Negative-Weight-Cycle-Bellman-Ford/UVa-10557-XYZZY[Bellman-Ford].cpp)
-   
+
    - [4.3 All-Pairs Shortest Paths (APSP)](4.Graph/4.3.All-Pairs-Shortest-Paths-(APSP))
-     - [UVa 821 Page Hopping](4.Graph/4.3.All-Pairs-Shortest-Paths-(APSP)/UVa-821-Page-Hopping.cpp)  
+     - [UVa 821 Page Hopping](4.Graph/4.3.All-Pairs-Shortest-Paths-(APSP)/UVa-821-Page-Hopping.cpp)
      - [UVa 567 Risk](4.Graph/4.3.All-Pairs-Shortest-Paths-(APSP)/UVa-567-Risk.cpp)
-     
